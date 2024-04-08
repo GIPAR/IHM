@@ -35,27 +35,13 @@ Antes de instalar o projeto, certifique-se que está utilizando as seguintes ver
 ### **Clonando o Repositório**
 Clone este repositório usando o seguinte comando:
 ```bash
-git clone git@github.com:GIPAR/site-nara-tech-frontend.git
-```
-### **Executando o Projeto Sem Docker**
-Para executar o projeto sem Docker, siga os seguintes passos:
-1. Navegue até a pasta do projeto:
-```bash
-cd site-nara-tech-frontend
-```
-2. Instale as dependências necessárias:
-```bash
-npm install
-```
-3. Inicie o projeto executando o seguinte comando:
-```bash
-npm start
+git clone git@github.com:GIPAR/IHM.git
 ```
 ### **Executando o Projeto Com Docker**
 Para executar o projeto com Docker, siga os seguintes passos:
 1. Navegue até a pasta do projeto:
 ```bash
-cd site-nara-tech-frontend
+cd IHM
 ```
 2. Execute o seguinte comando para subir os containers do projeto:
 ```bashC
