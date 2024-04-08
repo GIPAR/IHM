@@ -3,13 +3,11 @@ import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
-// import Grid from '@mui/material/Grid';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { Chip, Stack } from '@mui/material';
 import {
   Title, GridStyled, Paragraph, ImageStyled,
 } from './style';
-// import Navigation from '../../components/Navigation';
 import { RobotInforProvider } from '../../providers/robotInfor';
 import Chave from '../../components/Switch';
 import a2 from '../../assets/images/a2.png';
